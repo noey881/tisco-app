@@ -1,0 +1,104 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  font-family: 'tahoma';
+  font-size: 12px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.card-middle {
+margin-top: 20vh;
+}
+.card-width {
+  margin-top: 10vh;
+  width: 80vw;
+  }
+  
+.header-height{
+  height: 50px;
+}
+.set-overflow{
+  height: calc(100vh - 65px)!important;
+
+  overflow-x: auto;
+}
+.header-font-style {
+  color: black !important;
+  width: 100%;
+  left: 0;
+  text-align: center;
+  font-size: large;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.card-body-wrapper {
+  position: relative;
+  height: 100%;
+
+}
+
+.erorr-msg-feild {
+  color: red;
+  font-size: small;
+}
+
+.btn-adjust-margin {
+  margin-right: -20px;
+}
+.icon-wrapper{
+  display: flex;
+  position: relative;
+  top: 15%;
+}
+
+.wording-wrapper{
+  top: 15%;
+  display: flex;
+  position: relative;
+  font-size: xx-large;
+
+}
+.wording-wrapper > a {
+  margin: 0 auto 0;
+  display: inherit;
+}
+.icon-success-staus {
+  display: flex;
+  width: 120px;
+  height: 120px;
+  color: green;
+  text-align: center;
+  margin:0 auto 0;
+}
+
+.nav-bar-btn-size {
+  width: 50px;
+}
+
+.join-btn{
+  text-align: right;
+}
+
+.join-btn > button{
+  width: 70rm;
+}
+
+.invalid {
+  color: red;
+  border: 1px #eb0600 solid;
+}
+.valid {
+  border: 1px #615b99 solid;
+}

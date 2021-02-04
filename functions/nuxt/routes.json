@@ -1,0 +1,30 @@
+[
+  {
+    "name": "sign-in",
+    "path": "/sign-in",
+    "component": "/Users/sittipornautchariyabut/Documents/programming/firebase/tisco-app/src/pages/sign-in.vue",
+    "chunkName": "pages/sign-in",
+    "_name": "_7700a9e2"
+  },
+  {
+    "name": "submit-success",
+    "path": "/submit-success",
+    "component": "/Users/sittipornautchariyabut/Documents/programming/firebase/tisco-app/src/pages/submit-success.vue",
+    "chunkName": "pages/submit-success",
+    "_name": "_3f1ae29e"
+  },
+  {
+    "name": "view",
+    "path": "/view",
+    "component": "/Users/sittipornautchariyabut/Documents/programming/firebase/tisco-app/src/pages/view.vue",
+    "chunkName": "pages/view",
+    "_name": "_6911ac48"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sittipornautchariyabut/Documents/programming/firebase/tisco-app/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2d368b82"
+  }
+]
